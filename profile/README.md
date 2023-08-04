@@ -1,4 +1,4 @@
-⭐ NitroX Network⭐ | nitrox.gg [1.8 - 1.19] Java & Bedrock Crossplay
+⭐ NitroX Network⭐ | nitrox.gg [1.8 - 1.20] Java & Bedrock Crossplay
 
   Informations:
   - Java IP: nitrox.gg
